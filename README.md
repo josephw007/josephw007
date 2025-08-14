@@ -1,5 +1,6 @@
 # Senior AI/Machine Learning Engineer / Python Developer / 12 years
 ## 🧠 Summery
+
 I have over 10 years of experience as a Data Scientist and 12 years of experience in Artificial Intelligence/Machine Learning algorithms.
 Good hands-on experience in Software languages with Python and R Studio. Highly accurate and experienced in executing data-driven solutions to increase efficiency, accuracy, and utility of internal data processing, adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks.
 Experienced at creating data regression models, using predictive data modeling, and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems
@@ -24,6 +25,7 @@ AWS and Highly skilled in CNN, RNNs & LSTMs, scikit-learn, keras, tensorflow.
 ---
 
 ## 🔥 Key Skills
+
 Artificial Intelligence and Machine Learning: Data cleaning, Preprocessing, Data Manipulation, Linear Regression, Logistic Regression, Decision Trees, Random Forest, Bagging and Boosting, Deep learning, Computer Vision- CNN, Clustering, Natural Language Processing, Azure Machine Learning Studio, Azure AutoML, Dockers containerization and Kubernetes, Python, ML Ops SQL, Explainable AI, SHAPLEY, tree explainer, XGBoost Regressor, Azure Cognitive services, Computer Vision, Custom vision, OCR, Text Analytics, Content Moderator, Image and Video Processing, Azure LUIS, Semantic Analysis, REST API, Bot Framework, Bot Emulator, ML Ops CI/CD.
 Statistical Method: Predictive Analysis, Hypothesis Testing, Principal Component Analysis, Dimensionality Reduction, Market basket Analysis
 Programming Language: Python - Numpy, Pandas, Scikit, Matplotlib, Seaborn, Tensorflow, Keras, Artificial Neural Network, Convolutional Neural Network, PyTorch, LSTM, SQL, Generative AI-ChatGPT, Prompt Engineering.
