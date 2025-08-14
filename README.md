@@ -1,7 +1,10 @@
 # Senior AI/Machine Learning Engineer / Python Developer / 12 years
+
+---
+
 ## 🧠 Summery
 
-I have over 10 years of experience as a Data Scientist and 12 years of experience in Artificial Intelligence/Machine Learning algorithms.
+- I have over 10 years of experience as a Data Scientist and 12 years of experience in Artificial Intelligence/Machine Learning algorithms.
 Good hands-on experience in Software languages with Python and R Studio. Highly accurate and experienced in executing data-driven solutions to increase efficiency, accuracy, and utility of internal data processing, adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks.
 Experienced at creating data regression models, using predictive data modeling, and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems
 Using machine learning techniques, supervised, unsupervised, and reinforcement learning, and understanding the requirements & design for AI/ML use cases
